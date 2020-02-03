@@ -1,6 +1,6 @@
 <div align=right>
-	[![author](https://img.shields.io/badge/author-lunight-blue?style=glat-square)](https://github.com/LunightLab)
-	[![TEMPLATEVERSION](https://img.shields.io/badge/template%20version-1.0-blue)](https://github.com/LunightLab/LuLabTemplate)
+	<img alt="author" src="https://img.shields.io/badge/author-lunight-blue?style=glat-square" target="https://github.com/LunightLa"/>
+	<img alt="TEMPLATEVERSION" src="https://img.shields.io/badge/template%20version-1.0-blue" target="https://github.com/LunightLab/LuLabTemplate"/>
 </div>
 
 # LuLabTemplate
