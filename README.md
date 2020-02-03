@@ -53,7 +53,7 @@
 - 
 
 ## Update Log
-- ...
+- 
 
 ## About LuLabTemplate
 - Lunight Lab Github Template  
