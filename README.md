@@ -1,13 +1,15 @@
 <div align=right>
-	<img alt="author" src="https://img.shields.io/badge/author-lunight-blue?style=glat-square" target="https://github.com/LunightLa"/>
-	<img alt="TEMPLATEVERSION" src="https://img.shields.io/badge/template%20version-1.0-blue" target="https://github.com/LunightLab/LuLabTemplate"/>
+	<a href="https://github.com/LunightLa">
+		<img alt="author" src= "https://img.shields.io/badge/author-lunight-blue?style=glat-square" target="_blank"></a>
+	</a>
+	<a href="https://github.com/LunightLab/LuLabTemplate">
+		<img alt="template version" src= "https://img.shields.io/badge/template%20version-1.0-blue?style=glat-square" target="_blank"></a>
+	</a>
 </div>
 
 # LuLabTemplate
 - Lunight Lab Github Template  
 - Temlate version 1.0 : 초기작성, issue 및 pull request template 추가  
-
-// https://img.shields.io/badge/author-lunight-blue?style=glat-square
 
 ## Author
 
