@@ -31,13 +31,13 @@
 
 ## Table of Contents
 
-* [About Project](#About Project)
-* [Support Version](#Support Version)
-* [Installation Process](#Installation Process)
-* [Distribution Architecture](#Distribution Architecture)
-* [Update Log](#Update Log)
-* [About LuLabTemplate](#About LuLabTemplate)
-* [README.md History](#README.md History)
+* [About Project](#About-Project)
+* [Support Version](#Support-Version)
+* [Installation Process](#Installation-Process)
+* [Distribution Architecture](#Distribution-Architecture)
+* [Update Log](#Update-Log)
+* [About LuLabTemplate](#About-LuLabTemplate)
+* [README.md History](#README.md-History)
 * [License](#License)
 * [Author](#Author)
 
