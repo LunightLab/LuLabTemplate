@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/project/link">
-    <img src="images/readme-title.png" alt="title" width="290" height="240">
+    <img src="images/readme-title.png" alt="title" width="290" height="230">
   </a>
 
   <h3 align="center">Project title</h3>
@@ -63,7 +63,7 @@
 
 ## History
 - 2020.2.3 : 템플릿 첫작성.
-- 2020.8.8 : README.md 일부수정
+- 2020.8.8 : 템플릿 일부수정
 
 ## License
 - MIT
@@ -78,7 +78,6 @@
 |**Lunight**|
 |:--|
 |Github: [@Lunight](https://github.com/LunightLab) <br> Email: [kimkshahaha@gmail.com](kimkshahaha@gmail.com)|
-|
 
 ---
 <div align="center">
